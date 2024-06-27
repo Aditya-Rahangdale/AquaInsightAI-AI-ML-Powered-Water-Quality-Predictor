@@ -2,8 +2,8 @@
 AquaInsightAI is an AI-powered web app that predicts water quality by analyzing key parameters, providing fast, accurate assessments to ensure safe drinking water using a machine learning model.
 
 #**Technical Details**
-Front-End: HTML, CSS, JavaScript
-Back-End: Flask framework
+Front-End: HTML, CSS, JavaScript.
+Back-End: Flask framework.
 ML Model: RandomForestClassifier
 Model Training: Python, scikit-learn
 Data Input: pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, turbidity
